@@ -79,12 +79,13 @@
 - 앱 삭제 시 기기에 저장된 모든 데이터가 자동으로 삭제됩니다
 - Firebase에 수집된 분석 데이터는 Google의 보관 정책에 따라 자동 삭제됩니다
 
-### 6. 아동 개인정보 보호 (COPPA 준수)
+6. 아동 개인정보 보호 (COPPA 준수)
+본 앱은 만 13세 미만 아동을 포함한 모든 연령대가 이용할 수 있는 '전체 이용가' 앱입니다.
 
-본 앱은 **만 13세 미만 아동을 대상으로 하지 않습니다**:
-- 아동의 개인정보를 고의로 수집하지 않습니다
-- 만 13세 미만 사용자가 개인정보를 제공했다고 확인되면 즉시 삭제합니다
-- 부모님께서 자녀의 정보가 수집되었다고 판단하시면 아래 연락처로 문의해주세요
+당사는 아동의 개인정보 보호를 최우선으로 하며 다음과 같이 준수합니다:
+* 본 앱은 회원가입 기능을 제공하지 않으며, 아동의 이름, 주소, 전화번호 등 식별 가능한 개인정보를 일체 수집하지 않습니다.
+* 앱 내에서 생성된 데이터(캐릭터 도안 등)는 사용자의 기기 내부에만 저장되며, 당사의 서버로 전송되지 않습니다.
+* 만약 부모님께서 자녀의 데이터와 관련하여 문의가 있으신 경우 아래 연락처로 연락 주시면 즉시 조치하겠습니다.
 
 ### 7. 사용자의 권리
 
@@ -187,12 +188,13 @@ The App uses the following third-party services:
 - All data stored on the device is automatically deleted when the app is uninstalled
 - Analytics data collected by Firebase is automatically deleted per Google's retention policy
 
-### 6. Children's Privacy (COPPA Compliance)
+6. Children’s Privacy (COPPA Compliance)
+This app is designed for users of all ages, including children under the age of 13.
 
-The App **is not directed to children under 13**:
-- We do not knowingly collect personal information from children under 13
-- If we become aware that a child under 13 has provided us with personal information, we will delete it immediately
-- If you believe your child has provided personal information, please contact us using the information below
+We prioritize the protection of children's privacy and adhere to the following:
+* This app does not require account registration and does not collect any personally identifiable information (PII) such as names, addresses, or phone numbers from children.
+* Data created within the app (such as character designs) is stored solely on the user's device and is not transmitted to our servers.
+* If you are a parent or guardian and have concerns regarding your child's data, please contact us at the email provided below, and we will take immediate action.
 
 ### 7. User Rights
 
@@ -295,12 +297,13 @@ This policy complies with:
 - アプリ削除時、デバイスに保存されたすべてのデータが自動的に削除されます
 - Firebaseに収集された分析データは、Googleの保管ポリシーに従い自動削除されます
 
-### 6. 児童の個人情報保護 (COPPA準拠)
+6. 児童の個人情報保護 (COPPA準拠)
+本アプリは、13歳未満の児童を含むすべての年齢層が利用できる「全年齢対象」アプリです。
 
-本アプリは**13歳未満の児童を対象としていません**：
-- 児童の個人情報を故意に収集しません
-- 13歳未満のユーザーが個人情報を提供したことが確認された場合、直ちに削除します
-- お子様の情報が収集されたと判断される場合は、下記連絡先までお問い合わせください
+当社は児童の個人情報保護を最優先とし、以下の事項を遵守します：
+* 本アプリは会員登録機能を提供しておらず、児童の名前、住所、電話番号など、個人を特定できる情報は一切収集しません。
+* アプリ内で生成されたデータ（キャラクターの図案など）は、利用者の端末内部にのみ保存され、当社のサーバーへ送信されることはありません。
+* 保護者の方がお子様のデータに関してご質問がある場合は、以下の連絡先までお問い合わせいただければ、直ちに対応いたします。
 
 ### 7. ユーザーの権利
 
