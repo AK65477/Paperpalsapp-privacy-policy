@@ -112,6 +112,22 @@
 - **유럽:** GDPR (General Data Protection Regulation)
 - **미국:** COPPA (Children's Online Privacy Protection Act)
 
+## 앱 추적 투명성 (App Tracking Transparency, iOS)
+
+
+
+  iOS 14.5 이상에서는 앱 추적에 대한 사용자의 허락을 받습니다.
+
+  사용자가 추적을 허용하면, 광고 식별자(IDFA)를 사용하여 개인화된 광고를 제공하고
+
+  광고 성과를 측정합니다. 추적을 거부하더라도 앱의 모든 기능을 정상적으로 사용할 수 있습니다.
+
+
+
+  사용자는 다음 경로에서 언제든지 추적 설정을 변경할 수 있습니다:
+
+  설정 > 개인정보 보호 > 추적 > PaperPalz
+
 ---
 
 ## English
@@ -221,6 +237,24 @@ This policy complies with:
 - **Europe:** GDPR (General Data Protection Regulation)
 - **USA:** COPPA (Children's Online Privacy Protection Act)
 
+## App Tracking Transparency(iOS)
+
+
+
+  On iOS 14.5 and later, we request your permission for app tracking.
+
+  If you allow tracking, we use the Advertising Identifier (IDFA) to serve
+
+  personalized ads and measure ad performance. You can use all app features
+
+  even if you decline tracking.
+
+
+
+  You can change tracking settings at any time:
+
+  Settings > Privacy > Tracking > PaperPalz
+
 ---
 
 ## 日本語 (Japanese)
@@ -329,6 +363,24 @@ This policy complies with:
 - **韓国:** 個人情報保護法
 - **ヨーロッパ:** GDPR (General Data Protection Regulation)
 - **アメリカ:** COPPA (Children's Online Privacy Protection Act)
+
+## アプリトラッキングの透明性(iOS)
+
+
+
+  iOS 14.5以降では、アプリのトラッキングについてユーザーの許可を求めます。
+
+  トラッキングを許可すると、広告識別子（IDFA）を使用してパーソナライズされた
+
+  広告を配信し、広告パフォーマンスを測定します。トラッキングを拒否しても、
+
+  アプリのすべての機能を正常に使用できます。
+
+
+
+  トラッキング設定はいつでも変更できます：
+
+  設定 > プライバシー > トラッキング > PaperPalz
 
 ---
 
