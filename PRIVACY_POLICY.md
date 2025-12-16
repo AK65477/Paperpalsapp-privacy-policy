@@ -1,9 +1,18 @@
 # 개인정보 처리방침 (Privacy Policy)
 
-**최종 업데이트:** 2025년 1월 7일
-**시행일:** 2025년 1월 7일
+**최종 업데이트:** 2025년 12월 16일
+**시행일:** 2025년 12월 16일
+
+<div align="center">
+
+[🇰🇷 한국어](#kr) | [🇺🇸 English](#en) | [🇯🇵 日本語](#jp)
+
+</div>
 
 ---
+
+---
+<div id="kr"></div>
 
 ## 한국어 (Korean)
 
@@ -129,6 +138,7 @@
   설정 > 개인정보 보호 > 추적 > PaperPalz
 
 ---
+<div id="en"></div>
 
 ## English
 
@@ -256,6 +266,7 @@ This policy complies with:
   Settings > Privacy > Tracking > PaperPalz
 
 ---
+<div id="jp"></div>
 
 ## 日本語 (Japanese)
 
